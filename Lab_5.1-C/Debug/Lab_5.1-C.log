@@ -1,0 +1,48 @@
+﻿  BitStringBase.cpp
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(20,15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(31,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.cpp(15,86): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.cpp(41,71): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  BitString_PRIVATE.cpp
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(20,15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(31,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(19,83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(21,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(22,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(23,61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(24,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(17,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(38,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(57,75): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(72,70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(79,78): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(86,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.cpp(94,79): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  BitString_PUBLIC.cpp
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(20,15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(31,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(13,58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(14,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(15,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(16,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.cpp(18,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.cpp(39,26): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.cpp(53,68): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.cpp(60,76): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.cpp(67,70): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.cpp(75,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Source.cpp
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(20,15): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitStringBase.h(31,74): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(13,58): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(14,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(15,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PUBLIC.h(16,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(19,83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(21,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(22,52): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(23,61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\BitString_PRIVATE.h(24,54): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Lab_5.1-C\Source.cpp(16,26): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Lab_5.1-C.vcxproj -> F:\ООП\Тема 5\Lab_5.1-C\Lab_5.1-C\Debug\Lab_5.1-C.exe
